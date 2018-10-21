@@ -1,5 +1,14 @@
 {{$NEXT}}
 
+    [ BUG FIXES ]
+    * PR #1: Add missing prereqs as reported by CPANTS (Mohammad S Anwar)
+ 
+    [ ENHANCEMENTS ]
+    * None
+ 
+    [ DOCUMENTATION ]
+    * None
+
 0.01      2018-10-19 16:11:30-04:00 America/New_York
 
     Initial version.
