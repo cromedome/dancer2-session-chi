@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+0.02      2018-10-20 22:11:54-04:00 America/New_York
+
     [ BUG FIXES ]
     * PR #1: Add missing prereqs as reported by CPANTS (Mohammad S Anwar)
  
