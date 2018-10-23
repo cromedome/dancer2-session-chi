@@ -117,4 +117,12 @@ parameters to CHI.
 This is heavily based on L<Dancer2::Session::Memcached> by David Golden and
 Yanick Champoux.
 
+=head2 Contributors
+
+The following people have contributes to C<Dancer2::Session::CHI> in some way,
+either through bug reports, code, suggestions, or moral support:
+
+andk
+Mohammad S Anwar
+
 =cut

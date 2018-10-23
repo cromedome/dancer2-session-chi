@@ -1,5 +1,14 @@
 {{$NEXT}}
 
+    [ BUG FIXES ]
+    * GH #2: Fix missing JSON prereq (andk)
+ 
+    [ ENHANCEMENTS ]
+    * None
+ 
+    [ DOCUMENTATION ]
+    * None
+
 0.02      2018-10-20 22:11:54-04:00 America/New_York
 
     [ BUG FIXES ]
