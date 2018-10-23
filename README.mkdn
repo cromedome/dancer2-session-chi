@@ -4,7 +4,7 @@ Dancer2::Session::CHI - Dancer 2 session storage with CHI backend
 
 # VERSION
 
-version 0.02
+version 0.03
 
 # SYNOPSIS
 
@@ -34,6 +34,14 @@ parameters to CHI.
 
 This is heavily based on [Dancer2::Session::Memcached](https://metacpan.org/pod/Dancer2::Session::Memcached) by David Golden and
 Yanick Champoux.
+
+## Contributors
+
+The following people have contributes to `Dancer2::Session::CHI` in some way,
+either through bug reports, code, suggestions, or moral support:
+
+andk
+Mohammad S Anwar
 
 # AUTHOR
 
