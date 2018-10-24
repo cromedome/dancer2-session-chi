@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+0.04      2018-10-24 14:28:06-04:00 America/New_York
+
     [ BUG FIXES ]
     * PR #3: Add min Perl version as reported by CPANTS (Mohammad S Anwar)
  
