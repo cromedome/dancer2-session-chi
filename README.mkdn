@@ -4,7 +4,7 @@ Dancer2::Session::CHI - Dancer 2 session storage with CHI backend
 
 # VERSION
 
-version 0.03
+version 0.04
 
 # SYNOPSIS
 
@@ -29,6 +29,11 @@ state using [CHI](https://metacpan.org/pod/CHI).
 The backend driver CHI will use to store the session data. Any additional 
 attributes beyond the driver will be passed as additional configuration
 parameters to CHI.
+
+# SEE ALSO
+
+- [CHI](https://metacpan.org/pod/CHI)
+- [Dancer2](https://metacpan.org/pod/Dancer2)
 
 # CREDITS 
 
