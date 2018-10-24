@@ -112,6 +112,16 @@ parameters to CHI.
 
 =for Pod::Coverage method_names_here
  
+=head1 SEE ALSO
+
+=over 4
+
+=item * L<CHI>
+
+=item * L<Dancer2>
+
+=back
+
 =head1 CREDITS 
 
 This is heavily based on L<Dancer2::Session::Memcached> by David Golden and
