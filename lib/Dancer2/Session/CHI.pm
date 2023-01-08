@@ -129,10 +129,15 @@ Yanick Champoux.
 
 =head2 Contributors
 
-The following people have contributes to C<Dancer2::Session::CHI> in some way,
+The following people have contributed to C<Dancer2::Session::CHI> in some way,
 either through bug reports, code, suggestions, or moral support:
 
-andk
-Mohammad S Anwar
+=over
+
+=item andk
+
+=item Mohammad S Anwar
+
+=back
 
 =cut
