@@ -4,7 +4,7 @@ Dancer2::Session::CHI - Dancer 2 session storage with CHI backend
 
 # VERSION
 
-version 0.04
+version 0.05
 
 # SYNOPSIS
 
@@ -20,13 +20,13 @@ version 0.04
 # DESCRIPTION
 
 This module implements a session factory for [Dancer2](https://metacpan.org/pod/Dancer2) that stores session
-state using [CHI](https://metacpan.org/pod/CHI). 
+state using [CHI](https://metacpan.org/pod/CHI).
 
 # ATTRIBUTES
 
 ## driver (required)
 
-The backend driver CHI will use to store the session data. Any additional 
+The backend driver CHI will use to store the session data. Any additional
 attributes beyond the driver will be passed as additional configuration
 parameters to CHI.
 
@@ -35,18 +35,18 @@ parameters to CHI.
 - [CHI](https://metacpan.org/pod/CHI)
 - [Dancer2](https://metacpan.org/pod/Dancer2)
 
-# CREDITS 
+# CREDITS
 
-This is heavily based on [Dancer2::Session::Memcached](https://metacpan.org/pod/Dancer2::Session::Memcached) by David Golden and
+This is heavily based on [Dancer2::Session::Memcached](https://metacpan.org/pod/Dancer2%3A%3ASession%3A%3AMemcached) by David Golden and
 Yanick Champoux.
 
 ## Contributors
 
-The following people have contributes to `Dancer2::Session::CHI` in some way,
+The following people have contributed to `Dancer2::Session::CHI` in some way,
 either through bug reports, code, suggestions, or moral support:
 
-andk
-Mohammad S Anwar
+- andk
+- Mohammad S Anwar
 
 # AUTHOR
 
@@ -54,7 +54,7 @@ Jason A. Crome <cromedome@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2018 by Jason A. Crome.
+This software is copyright (c) 2023 by Jason A. Crome.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
